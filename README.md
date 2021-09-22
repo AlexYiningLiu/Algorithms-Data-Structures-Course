@@ -1,2 +1,2 @@
 # CSC190_Projects
-Course projects completed for my Computer Algorithms and Data Structures Course in Spring 2019
+Course projects completed for the Computer Algorithms and Data Structures course in Spring 2019
